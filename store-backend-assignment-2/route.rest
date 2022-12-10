@@ -1,0 +1,24 @@
+GET http://localhost:3000/products
+
+###
+
+POST http://localhost:3000/orders
+Content-Type: application/json
+
+{
+    "firstName":"Yuval",
+    "lastName": "Nissim",
+    "totalAmount": 100,
+    "productList": [{
+      "name": "Kitkat",
+      "price": 5,
+      "imgUrl": "assets/kitkat.png",
+      "description": "Kitkat chocolate snack"
+    },
+    {
+      "name": "m&m",
+      "price": 7,
+      "imgUrl": "assets/m&m.png",
+      "description": "m&m chocolate snack"
+    }]
+}

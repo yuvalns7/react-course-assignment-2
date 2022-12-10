@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Kitkat",
+      "price": 5,
+      "imgUrl": "https://www.nestleprofessional.com.sg/sites/default/files/styles/np_hero_small_small/public/2022-04/3.1a.16_kitkat_4_finger.png?itok=-NbN_Otf",
+      "description": "Kitkat chocolate snack"
+    },
+    {
+      "name": "m&m",
+      "price": 7,
+      "imgUrl": "https://almaceneselrey.com/media/catalog/product/cache/bc9e311e664dbb5929888a78159490c8/0/0/0040000514480-a.webp",
+      "description": "m&m chocolate snack"
+    },
+    {
+      "name": "Skittles",
+      "price": 10,
+      "imgUrl": "https://www.skittles.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf586/files/migrate-product-files/bugtmlmtjcpoyayk2mqu.png",
+      "description": "Skittles not chocolate snack"
+    },
+    {
+       "name": "Reeses",
+      "price": 8.5,
+      "imgUrl": "https://www.hersheysolutions.com/is/image/content/dam/hersheysolutions/candy/item/Reeses_Cups_standard_00440?hei=700&fmt=png-alpha",
+      "description": "Reeses chocolate peanut-butter snack"
+    },
+    {
+      "name": "Snickers",
+      "price": 8.5,
+      "imgUrl": "https://www.snickers.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+      "description": "Snickers chocolate snack"
+    }
+  ]
